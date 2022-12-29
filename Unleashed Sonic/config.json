@@ -1,0 +1,40 @@
+{
+  "Groups": [
+    {
+      "Name": "Main",
+      "DisplayName": "Configuration",
+      "Elements": [
+        {
+          "Name": "IncludeDir0",
+          "DisplayName": "Choose your Sonic!",
+          "Description": [
+            "Choose between Unleashed's default look and his stock art look!"
+          ],
+          "Type": "BaseEnum",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "config_default"
+        }
+      ]
+    }
+  ],
+  "Enums": {
+    "BaseEnum": [
+      {
+        "DisplayName": "Unleashed Sonic",
+        "Value": "config_default",
+        "Description": [
+          "Unleashed's default look for Sonic"
+        ]
+      },
+      {
+        "DisplayName": "Stock Art Sonic",
+        "Value": "config_stockart",
+        "Description": [
+          "Sonic's stock art look"
+        ]
+      }
+    ]
+  },
+  "IniFile": "mod.ini"
+}
