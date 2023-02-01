@@ -1,1 +1,14 @@
+add /dlcddx/bb2/Title.ar.00
+add /dlcddx/bb2/Title.ar.01
+add /dlcddx/bb2/Title.ar.02
+add /dlcddx/bb2/Title.ar.03
+add /dlcddx/bb2/Title.arl
+add /dlcddx/bb3/evSonic.ar.00
+add /dlcddx/bb3/evSonic.ar.01
+add /dlcddx/bb3/evSonic.arl
+add /dlcddx/bb3/Sonic.ar.00
+add /dlcddx/bb3/Sonic.ar.01
+add /dlcddx/bb3/Sonic.ar.02
+add /dlcddx/bb3/Sonic.ar.03
+add /dlcddx/bb3/Sonic.arl
 add mod.ini
