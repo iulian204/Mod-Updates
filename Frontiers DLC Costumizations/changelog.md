@@ -6,3 +6,6 @@
 
 ## Frontiers DLC Costumizations 1.11
 - sorry accidentally made that outfit crash lol
+
+## Frontiers DLC Costumizations 1.2
+- Improved soap shoes and christmas outfit materials
